@@ -1,0 +1,1 @@
+var router = router || express.Router()
