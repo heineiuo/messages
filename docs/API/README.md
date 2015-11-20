@@ -3,4 +3,4 @@
 ---
 
 
-[获取个人信息](API/userinfo.md)
+[获取个人信息](userinfo.md)
